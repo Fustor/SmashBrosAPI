@@ -5,7 +5,6 @@ module.exports = {
     all: [],
     find: [],
     get: [
-      
     ],
     create: [],
     update: [],
@@ -16,7 +15,8 @@ module.exports = {
   after: {
     all: [],
     find: [],
-    get: [],
+    get: [
+    ],
     create: [],
     update: [],
     patch: [],
