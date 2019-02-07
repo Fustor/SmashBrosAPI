@@ -4,7 +4,9 @@ module.exports = {
   before: {
     all: [],
     find: [],
-    get: [],
+    get: [
+      
+    ],
     create: [],
     update: [],
     patch: [],
